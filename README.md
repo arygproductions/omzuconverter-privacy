@@ -77,7 +77,7 @@ device.
 
 OmzuConverter is free software licensed under the **GNU AGPL-3.0-or-later**. If you have
 received a copy of the app, you are entitled to its complete corresponding source code —
-email **yezdi.ghadially@gmail.com** and we will provide it. So these claims are not
+email **arygproductions@gmail.com** and we will provide it. So these claims are not
 something you have to take on trust: you can read the code and verify for yourself that
 no data leaves your device.
 
@@ -88,4 +88,4 @@ If this policy ever changes, the updated version will be posted at this URL with
 
 ## Contact
 
-Questions about this policy: **yezdi.ghadially@gmail.com**
+Questions about this policy: **arygproductions@gmail.com**
